@@ -1,6 +1,13 @@
 # raze
 
-A new Flutter project.
+Screenshots from the app :
+
+![Screenshot_2022-10-07-14-57-49-473_com example raze](https://user-images.githubusercontent.com/114262032/194559059-b183a038-493b-40c6-b2e0-2563846bccc8.jpg)
+
+![Screenshot_2022-10-07-14-58-54-689_com example raze](https://user-images.githubusercontent.com/114262032/194559084-ad0375ab-97ab-4e46-9824-030ae68366bf.jpg)
+
+![Screenshot_2022-10-07-14-57-39-643_com example raze](https://user-images.githubusercontent.com/114262032/194559126-a41a1b2c-1eee-49ef-ac05-17d47c2eb802.jpg)
+
 
 ## Getting Started
 
